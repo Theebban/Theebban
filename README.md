@@ -16,6 +16,10 @@ ship and operate software alongside that, including LLM features running in prod
   rollback, one portable record. TypeScript, zero runtime dependencies,
   [on npm](https://www.npmjs.com/package/modelpromote) with verified provenance.
 
+- **[asinstalled](https://github.com/Theebban/asinstalled)**: tests an npm package the way its
+  users receive it: packed, installed into a clean project, and run on every Node version its
+  `engines` field promises. Built for my own releases; it runs in ModelPromote's CI.
+
 ## Earlier work
 
 - Peer-reviewed review of natural-fibre bicycle brake calipers (2017), from my engineering
