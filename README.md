@@ -8,6 +8,9 @@ ship and operate software alongside that, including LLM features running in prod
 
 ## Public work
 
+- **[Production model migration case study](https://github.com/Theebban/production-model-migration-case-study)**:
+  a verified production LLM model migration, kept strictly separate from the stronger method
+  that came after it, and how that method evolved into ModelPromote. Runnable offline.
 - **[ModelPromote](https://github.com/Theebban/modelpromote)**: governs the switch when you
   change the AI model in production. Approval, read-back activation, telemetry verification,
   rollback, one portable record. TypeScript, zero runtime dependencies,
